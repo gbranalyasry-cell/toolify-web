@@ -1,0 +1,4 @@
+flask
+pdf2docx
+Pillow
+qrcode
